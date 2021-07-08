@@ -4,3 +4,5 @@ Yellow
 Orange
 Violet
 Red
+Cyan color added
+White color added
